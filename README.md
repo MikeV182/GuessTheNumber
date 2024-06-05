@@ -1,2 +1,3 @@
 # GuessTheNumber
-Repository for a simple game written on java called guess the number. Main goal of the game is to guess random number, precalculated by a computer
+
+Rules are simple: just enter a number and try to guess randomly generated value in the range from 0 to your_number-1, computer will give you some tips throughout the game.
